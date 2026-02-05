@@ -1,0 +1,49 @@
+
+body{
+    background-color: rgb(248, 246, 246);
+    border: blue 10px solid;
+padding-top:-10%;
+font-family: LibreBaskerville;
+}
+
+#nameme{
+    ;
+    margin-top: 0%;
+}
+h1{
+    text-align: center;
+}
+#mydetail{
+    margin-left: 40%;
+    margin-top: -35%;
+}
+#mysummary{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h2{
+    color: blue;
+}
+#myeducation{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#mywork{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#myskills{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+footer{
+    color: rgb(173, 173, 243);
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+     background-color: blue;
+}
